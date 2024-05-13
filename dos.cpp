@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hola mundo" << endl;   // Espanol
+    cout << "Hola mundo" << endl;   // Espaniol
     cout << "Hello world" << endl;  // Ingles
     cout << "Hallo welt" << endl;   // Aleman
     cout << "Ciao mondo" << endl;   // Italiano
